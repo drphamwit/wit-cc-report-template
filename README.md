@@ -1,17 +1,17 @@
 # WordPress Messenger Customer Chat Plugin
 
-# Description
-What?
+## Description
+### What?
 
 `WordPress Messenger Customer Chat Plugin` is Messenger's customer chat plugin for Wordpress.
 This is the source code for the plugin which allows you to add a Messenger chat window directly onto
 your website.
 
-Why?
+### Why?
 
 There is no current plugin in the market and we think it is cool.
 
-How?
+### How?
 
 This Wordpress plugin automatically
 places code on a website, reducing friction, chance for error, and simplifying
@@ -20,23 +20,26 @@ engage their users in a more personal way. Users can get their questions answere
 from more businesses without leaving their website, and continue the conversation
 in Messenger without losing history or context. 
 
-# Deliverables
+## Deliverables
 
 1. Plugin frontend
 2. Plugin backend 
 3. Documentation 
 
-# Plan
+## Plan
 
 * Week 1 (Oct 29 - Nov 5):
-- Investigate current plugin solutions
-- Design the user interface
+
+1. Investigate current plugin solutions
+2. Design the user interface
+
 * Week 2 (Nov 5 - Nov 12):
-- Implement the frontend
-- Design backend service
+
+1. Implement the frontend
+2. Design backend service
 ...
 
-# Team members
+## Team members
 
 * Roger Federer, Team Lead
 * Burger King, Frontend Engineer
