@@ -2,7 +2,7 @@
 
 ## Week 1 (Oct 29 - Nov 5)
 
-### What did your team do?
+### What did your team do this week?
 * Set up repository
 * Identify deliverables
 * Make plan
@@ -11,7 +11,7 @@
 * Investigate different solutions
 * Prototype plugin server
 
-### Blocking issues/challenges
+### Any blocking issues/challenges need to be addressed?
 * Get server to work on Linux machines, but not Windows
 * Client-server communication is flaky
 
@@ -24,5 +24,5 @@
 ### What will you do next week?
 ...
 
-### Blocking issues/challenges
+### Any blocking issues/challenges need to be addressed?
 ...
