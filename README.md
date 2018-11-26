@@ -39,6 +39,15 @@ in Messenger without losing history or context.
 2. Design backend service
 ...
 
+## Getting Started
+### Install
+### Run
+
+## Features
+
+## Demo video
+
+
 ## Team members
 
 * Roger Federer, Team Lead
