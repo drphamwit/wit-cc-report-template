@@ -57,11 +57,10 @@ Upload your demo video to youtube and put a link here. Basically, the video cont
 Make it short (<= 2 mins) and interesting.
 
 Here is an example of a demo video of a chat program developed by Ethan Arrowood and his team (the first 6 minutes). **YOU DO NOT NEED TO SHOW HOW YOUR CODE WORKS IN THE DEMO VIDEO!!!**
-
 https://www.youtube.com/watch?v=aQhh0UVLb_M
 
 ## Team members (10 pts)
 
 * Roger Federer, Team Lead
-* Burger King, Frontend Engineer
+* Tiger Woods, Bug Fixer
 
