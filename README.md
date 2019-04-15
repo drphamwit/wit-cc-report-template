@@ -30,6 +30,8 @@ Follow the exact structure of this sample
 
 1. Implement the frontend
 2. Design backend service
+
+* Week 3 (Nov 12 - Nov 19):
 ...
 
 ## Getting Started (10 pts)
@@ -42,6 +44,7 @@ List the steps to run your project
 List all the features of your application
 1. Feature #1
 2. Feature #2
+3. Feature #3 
 ...
 
 ## Demo video (20 pts)
