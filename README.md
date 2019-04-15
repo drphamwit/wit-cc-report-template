@@ -32,13 +32,13 @@ Follow the exact structure of this sample
 2. Design backend service
 ...
 
-## Getting Started (20 pts)
+## Getting Started (10 pts)
 ### Install
 List the steps to install your project
 ### Run
 List the steps to run your project
 
-## Features
+## Features (10 pts)
 List all the features of your application
 1. Feature #1
 2. Feature #2
