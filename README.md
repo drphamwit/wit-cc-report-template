@@ -19,28 +19,13 @@ Follow the exact structure of this sample
 2. Backend 
 3. Documentation 
 
-## Plan (10 pts)
-
-* Week 1 (Oct 29 - Nov 5):
-
-1. Investigate current plugin solutions
-2. Design the user interface
-
-* Week 2 (Nov 5 - Nov 12):
-
-1. Implement the frontend
-2. Design backend service
-
-* Week 3 (Nov 12 - Nov 19):
-...
-
-## Getting Started (10 pts)
+## Getting Started (20 pts)
 ### Install
-List the steps to install your project
+List the steps on how to install your project
 ### Run
-List the steps to run your project
+List the steps on how to run your project
 
-## Features (10 pts)
+## Features (20 pts)
 List all the features of your application
 1. Feature #1
 2. Feature #2
@@ -60,7 +45,7 @@ Here is an example of a demo video of a chat program developed by Ethan Arrowood
 
 https://www.youtube.com/watch?v=aQhh0UVLb_M
 
-## Team members (10 pts)
+## Team members
 
 * Roger Federer, Team Lead
 * Tiger Woods, Bug Fixer
