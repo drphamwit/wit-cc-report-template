@@ -39,7 +39,7 @@ Upload your demo video to youtube and put a link here. Basically, the video cont
 2. How to run the app
 3. Quick walkthrough of all the features of your app
 
-Make it short (<= 2 mins) and interesting.
+Make it short and interesting.
 
 ## Team members
 
