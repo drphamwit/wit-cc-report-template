@@ -30,7 +30,11 @@ Sample: https://www.youtube.com/watch?v=Pr-JMqTkdEM
 
 How to record your screen: https://www.techradar.com/how-to/record-your-screen
 
-## Team members (10 pts)
+## References (10 pts)
+
+Provide links to all coding resources you used in your project. Note: if copy and paste is detected without citing the source, then 50% deduction on the final report!
+
+## Team members
 
 * Roger Federer, Team Lead
 * Tiger Woods, Bug Fixer
