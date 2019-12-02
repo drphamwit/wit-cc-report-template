@@ -28,6 +28,8 @@ Make it short and interesting.
 
 Sample: https://www.youtube.com/watch?v=Pr-JMqTkdEM
 
+How to record your screen: https://www.techradar.com/how-to/record-your-screen
+
 ## Team members (10 pts)
 
 * Roger Federer, Team Lead
