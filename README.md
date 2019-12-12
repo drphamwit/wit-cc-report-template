@@ -3,6 +3,7 @@
 ## Description (10 pts)
 
 Briefly describe what your project is all about. (5 pts)
+
 Formatting (5 pts): make sure you follow the sample formats with headers, bullet points, highlights...
 
 ## Getting Started (20 pts)
