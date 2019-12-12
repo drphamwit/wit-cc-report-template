@@ -2,9 +2,10 @@
 
 ## Description (10 pts)
 
-Briefly describe what your project is all about.
+Briefly describe what your project is all about. (5 pts)
+Formatting (5 pts): make sure you follow the sample formats with headers, bullet points, highlights...
 
-## Getting Started (30 pts)
+## Getting Started (20 pts)
 ### Install (10 pts)
 List the steps on how to install your project
 ### Run (10 pts)
