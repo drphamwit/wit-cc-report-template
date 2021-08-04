@@ -6,18 +6,21 @@
 
 Briefly describe what your app is all about.
 
-## Getting Started (20 pts)
-### Deployment
-List the steps on how to deploy your app on the cloud.
-### Run
-List the steps on how to run your app.
-
 ## Features (10 pts)
 List all the features of your app
 1. Feature #1
 2. Feature #2
 3. Feature #3 
 4. ...
+
+## System Architecture (10 pts)
+Draw architecture diagrams of all services of your app and their relationships.
+
+## Getting Started (20 pts)
+### Deployment
+List the steps on how to deploy your app on the cloud.
+### Run
+List the steps on how to run your app.
 
 ## Demo video (30 pts)
 
@@ -31,11 +34,11 @@ Sample: https://www.youtube.com/watch?v=Pr-JMqTkdEM
 
 How to record your screen: https://www.techradar.com/how-to/record-your-screen
 
-## References (10 pts)
+## References (5 pts)
 
 Provide links to all coding resources you used in your project. Note: if copy and paste is detected without citing the source, then 50% deduction on the final report!
 
-## Team members (10 pts)
+## Team members (5 pts)
 
 * student name (email), role
 * student name (email), role
