@@ -16,11 +16,8 @@ List all the features of your app
 ## System Architecture (10 pts)
 Draw architecture diagrams of all services of your app and their relationships.
 
-## Getting Started (20 pts)
-### Deployment
+## Deployment (20 pts)
 List the steps on how to deploy your app on the cloud.
-### Run
-List the steps on how to run your app.
 
 ## Demo video (30 pts)
 
