@@ -1,32 +1,31 @@
 # Your project name
 
-## Description (10 pts)
+(10 pts) Your cloud app public url.
 
-Briefly describe what your project is all about. (5 pts)
+## Introduction (10 pts)
 
-Formatting (5 pts): make sure you follow the sample formats with headers, bullet points, highlights...
+Briefly describe what your app is all about.
 
 ## Getting Started (20 pts)
-### Install (10 pts)
-List the steps on how to install your project
-### Run (10 pts)
-List the steps on how to run your project
+### Deployment
+List the steps on how to deploy your app on the cloud.
+### Run
+List the steps on how to run your app.
 
 ## Features (10 pts)
-List all the features of your application
+List all the features of your app
 1. Feature #1
 2. Feature #2
 3. Feature #3 
-...
+4. ...
 
-## Demo video (50 pts)
+## Demo video (30 pts)
 
-Upload your demo video to youtube and put a link here. Basically, the video content is very much like the quick live demo of your product with the followings:
-1. Project description
-2. How to run the app
-3. Quick walkthrough of all the features of your app
+Upload your demo video to youtube and put a link here. Basically, the video content is very much like the quick live demo of your app with the followings:
+1. Introduction
+3. Quick walkthrough of all the features of your app one by one
 
-Make it short and interesting.
+Make it short and interesting (1-3 minutes)
 
 Sample: https://www.youtube.com/watch?v=Pr-JMqTkdEM
 
@@ -36,8 +35,9 @@ How to record your screen: https://www.techradar.com/how-to/record-your-screen
 
 Provide links to all coding resources you used in your project. Note: if copy and paste is detected without citing the source, then 50% deduction on the final report!
 
-## Team members
+## Team members (10 pts)
 
-* Roger Federer, Team Lead
-* Tiger Woods, Bug Fixer
+* student name (email), role
+* student name (email), role
+* ...
 
